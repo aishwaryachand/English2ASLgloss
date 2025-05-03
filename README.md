@@ -4,6 +4,8 @@
 This project implements a lightweight translation pipeline that converts English sentences to American Sign Language (ASL) gloss. It leverages a fine-tuned [`t5-small`](https://huggingface.co/t5-small) model and provides an easy-to-use interface via [Streamlit](https://streamlit.io/).
 
 ---
+![WhatsApp Image 2025-05-03 at 2 28 56 PM](https://github.com/user-attachments/assets/29910e50-d8e5-44bf-a6ee-70aa88e80f92)
+
 
 ### 🚀 Features
 
