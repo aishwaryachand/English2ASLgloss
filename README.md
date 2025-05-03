@@ -1,6 +1,3 @@
-Great! Here's a clean, professional `README.md` template for your **English to ASL Gloss Translator** project using T5 + Streamlit:
-
----
 
 ## 🧠 English to ASL Gloss Translator (T5-based)
 
