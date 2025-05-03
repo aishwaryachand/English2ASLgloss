@@ -104,6 +104,3 @@ CHILDREN PLAY PARK
 
 MIT License © 2025 Aishwarya Chand
 
----
-
-Would you like me to generate this as a `.md` file and help you commit it directly?
